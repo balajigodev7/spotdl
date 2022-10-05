@@ -1,6 +1,6 @@
 # Spotify-Downloader
 
-**CHECK OUT THE LATEST SPOTDL on https://github.com/spotDL/spotify-downloader**
+**CHECK OUT THE LATEST SPOTDL ON https://github.com/spotDL/spotify-downloader**
 
 **THIS REPOSITORY IS FOR THE OUTDATED V2 AND SHOULD NOT BE USED.**
 
