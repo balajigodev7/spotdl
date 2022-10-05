@@ -1,16 +1,12 @@
 # Spotify-Downloader
 
-**There is a v3 of spotdl now being maintained by other folks on https://github.com/spotDL/spotify-downloader.**
+**CHECK OUT THE LATEST SPOTDL on https://github.com/spotDL/spotify-downloader**
 
-**However, I personally find its usage not as flexible as v2 as of yet, so I'll be passively fixing bugs in v2
-arising only from YouTube or Lyrics websites changing their algorithms and will also accept Issues/PRs for
-the same. I won't be dealing with any new feature requests nor will I be fixing any other bugs in v2. Issues
-and PRs for anything else will be rejected too.**
+**THIS REPOSITORY IS FOR THE OUTDATED V2 AND SHOULD NOT BE USED.**
 
-**I don't really use spotdl as often as I used to and I really need to take some time-off, so there's little personal
-motivation to maintain it any further from my side. Sorry about that.**
+-------------------------------------------------
 
-**Install the latest v2 with: `$ pip3 install git+https://github.com/ritiek/spotify-downloader.git` (do not install
+**Install the last v2 release using: `$ pip3 install git+https://github.com/ritiek/spotify-downloader.git` (do not install
 from PyPI or any other way even if mentioned in the docs later here, you'll probably end up with v3 that way) and read
 below.**
 
